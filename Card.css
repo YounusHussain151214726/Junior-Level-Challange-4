@@ -213,11 +213,10 @@ top: 2rem;
   padding: 0.5rem 0.5rem;
 }
 
-footer {
-  background-color: var(--Very-Dark-Blue);
-}
+
 .footerdiv {
   padding: 2rem 2rem;
+background-color: var(--Very-Dark-Blue);
 }
 .footerdiv img {
   width: 10rem;
